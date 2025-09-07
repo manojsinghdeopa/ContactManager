@@ -1,0 +1,35 @@
+# Android/IntelliJ
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Keystore files
+*.jks
+
+# Generated files
+app/build/
+app/intermediates/
+app/generated/
+app/ksp/
+app/.cxx/
+
+# Log files
+*.log
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
