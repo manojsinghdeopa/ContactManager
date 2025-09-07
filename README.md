@@ -1,7 +1,8 @@
 # ContactManager
 
-ContactManager is a modern Android app for managing contacts, built with Jetpack Compose, Room, and
-MVVM architecture. It allows users to add, view, and update contacts with a clean and intuitive UI.
+- ContactManager is a Sample Android app for managing contacts, built with Jetpack Compose, Room, and
+MVVM architecture.
+- It allows users to add, view, and update contacts with a clean and intuitive UI.
 
 ## Features
 
