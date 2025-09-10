@@ -1,6 +1,6 @@
-# ContactManager
+# Contact Manager
 
-- ContactManager is a Sample Android app for managing contacts, built with Jetpack Compose, Room, and
+- Contact Manager is a Sample Android app for managing contacts, built with Jetpack Compose, Room, and
 MVVM architecture.
 - It allows users to add, view, and update contacts with a clean and intuitive UI.
 
@@ -24,7 +24,7 @@ MVVM architecture.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/manojsinghdeopa/ContactManager.git
+    git clone https://github.com/manojsinghdeopa/Contact-Manager.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
